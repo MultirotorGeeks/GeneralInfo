@@ -3,7 +3,13 @@ General Info about how to use the MultirotorGeeks github organization for sharin
 
 Right now the repositories in this organization are open source.  However, if we ever reach a point where we are generating IP, we can upgrade the account to allow private repositories.
 
-# Useful Links for general Git info
+## Contents
+* [Links to Git Info] (#gitinfo)
+* [Other Useful Links] (#otherlinks)
+* [Recommended Workflow] (#workflow)
+* [What to Put In Repositories] (#whatinrepo)
+
+# Useful Links for general Git info <a name="gitinfo"/>
 
 [Where To Download Git For Your Computer] (http://git-scm.com/downloads)
 
@@ -17,7 +23,7 @@ Right now the repositories in this organization are open source.  However, if we
 
 [Info about using the Git tools built into the Eclipse IDE] (http://wiki.eclipse.org/EGit/User_Guide)
 
-# Other Useful Links for the Multirotor Geeks Organization
+# Other Useful Links for the Multirotor Geeks Organization  <a name="otherlinks"/>
 
 [Our Website] (http://multirotorgeeks.github.io/)
 
@@ -25,7 +31,7 @@ Right now the repositories in this organization are open source.  However, if we
 
 [Our Repositories] (https://github.com/MultirotorGeeks)
 
-# Recommended Workflow for Multirotor Geeks
+# Recommended Workflow for Multirotor Geeks <a name="workflow"/>
 
 This section is where we will write down descriptions of how our workflow will happen.  Currently, the recommended workflow is the standard [Feature Branch Workflow] (https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow).  We all have a say in the workflow, so feel free to open discussions about this, so we can improve it to fit our needs.
 
@@ -37,7 +43,7 @@ If you are just adding documentation, help files, readmes, etc to the repository
 
 Many of the basic Git functions can be performed from directly within the Eclipse IDE.  See [This Website] (http://wiki.eclipse.org/EGit/User_Guide) for a user guide on how to use those tools.  At this point, I believe everything in our workflow (for eclipse projects) can be done from within Eclipse, except the pull requests (which are done from the github website).  For any projects or files created outside Eclipse, the standard [Git Bash or Git Gui programs] (http://git-scm.com/downloads) work great.
 
-# What to put in the repositories?
+# What to put in the repositories? <a name="whatinrepo"/>
 
 We can create as many public repositories in this group as we want!  In each repository, it is recommended that we use the [.gitignore](.gitignore) and [.gitattributes](.gitattributes) files which are provided at the top level of this [GeneralInfo repository](https://github.com/MultirotorGeeks/GeneralInfo).  It is also highly recommended that each top level repository directory and each project directory contains a readme file of some sort, which describes the repository or project.  For project readme files, it should also describe how to set up and use the project.
 
