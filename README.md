@@ -25,7 +25,7 @@ Many of the basic Git functions can be performed from directly within the Eclips
 
 # What to put in the repositories?
 
-We can create as many public repositories in this group as we want!  In each repository, it is recommended that we use the .gitignore and .gitattributes files which are provided at the top level of this GeneralInfo repository.
+We can create as many public repositories in this group as we want!  In each repository, it is recommended that we use the .gitignore and .gitattributes files which are provided at the top level of this GeneralInfo repository.  It is also highly recommended that each top level repository directory and each project directory contains a readme file of some sort, which describes the repository or project.  For project readme files, it should also describe how to set up and use the project.
 
 The main type of files to include in the repository are source files (*.c, *.cpp, *.h, *.java, *.m, *.mdl, etc).  Users are also encouraged to include pdf, word, html, or other forms of documentation in the repository where helpful.  I believe that videos and photos can also be included.
 
