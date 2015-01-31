@@ -3,6 +3,8 @@ General Info about how to use the MultirotorGeeks github organization for sharin
 
 Right now the repositories in this organization are open source.  However, if we ever reach a point where we are generating IP, we can upgrade the account to allow private repositories.
 
+If you are interested in becoming a member of this organization so that you can contribute into the repository, please [create an account on github](https://github.com/join) and send a message with your request to the user pmrancuret.
+
 ## Contents
 * [Links to Git Info] (#gitinfo)
 * [Other Useful Links] (#otherlinks)
