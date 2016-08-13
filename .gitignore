@@ -237,3 +237,7 @@ slprj/
 *_ert_rtw/
 *_grt_rtw/
 *.mex32
+
+# EAGLE
+*.brd.lck
+*.sch.lck
