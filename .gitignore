@@ -241,3 +241,6 @@ slprj/
 # EAGLE
 *.brd.lck
 *.sch.lck
+*.b#*
+*.s#*
+*.job
